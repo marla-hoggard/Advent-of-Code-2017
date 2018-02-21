@@ -1,4 +1,3 @@
-//Advent of Code - Day 6 - Puzzle 2
 //Takes string of numbers separated by whitespace
 //Runs redistribution pattern
 //Returns number of iterations before finding a repeat
