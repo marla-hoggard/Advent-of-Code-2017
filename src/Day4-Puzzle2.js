@@ -1,4 +1,3 @@
-//Advent of Code - Day 4 - Puzzle 2
 //Takes an array of strings, each representing a pw input
 //Returns number of pw strings that don't contain duplicates 
 //or pairs of words that anagram to each other
@@ -12,9 +11,8 @@ function checkPWana(input) {
 	return valid;
 }
 
-//Advent of Code - Day 4 - Puzzle 2
 //Takes a string of words separated by spaces
-//Returns false if any word is identical or anagram of another
+//Returns false if any word is identical to or an anagram of another in string
 function checkAnagrams(string) {
 	var words = string.split(" ");
 	var n = words.length;
@@ -23,6 +21,7 @@ function checkAnagrams(string) {
 		var word = words[a].split("");
 		words[a] = word.sort().join("");
 	}
+	//Same as checkDup from Day 4 Part 1
 	var checked = [];
 	for (var i = 0; i < n; i++) {
 		if (!checked.includes(words[i])) {
