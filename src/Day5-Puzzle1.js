@@ -1,4 +1,4 @@
-//Takes array of instructions
+//Takes array of instructions (integers)
 //Returns number of steps to get out of maze
 function escapeMaze(instr) {
 	var i = 0;
