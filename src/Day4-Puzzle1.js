@@ -1,4 +1,3 @@
-//Advent of Code - Day 4 - Puzzle 1
 //Takes an array of strings, each representing a pw input
 //Returns number of pw strings with no duplicate words
 function checkPW(input) {
@@ -11,7 +10,6 @@ function checkPW(input) {
 	return valid;
 }
 
-//Advent of Code - Day 4 - Puzzle 1
 //Takes string of words separated by spaces
 //Returns true if no duplicate words in sentence
 function checkDup(string) {
