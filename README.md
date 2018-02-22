@@ -10,3 +10,4 @@ Day 5 - A Maze of Twisty Trampolines, All Alike - [Part 1](src/Day5-Puzzle1.js "
 Day 6 - Memory Reallocation - [Part 1](src/Day6-Puzzle1.js "code") - [Part 2](src/Day6-Puzzle2.js "code")  
 Day 7 - Recursive Circus - [Part 1](src/Day7-Puzzle1.js "code") - [Part 2](src/Day7-Puzzle2.js "code")  
 Day 8 - I Heard You Like Registers - [Part 1](src/Day8-Puzzle1.js "code") - [Part 2](src/Day8-Puzzle2.js "code")  
+Day 9 - Stream Processing - [Part 1](src/Day9-Puzzle1.js "code") - [Part 2](src/Day9-Puzzle2.js "code")  
