@@ -14,3 +14,4 @@ Day 9 - Stream Processing - [Part 1](src/Day9-Puzzle1.js "code") - [Part 2](src/
 Day 10 - Knot Hash - [Part 1](src/Day10-Puzzle1.js "code") - [Part 2](src/Day10-Puzzle2.js "code")  
 Day 11 - Hex Ed - [Part 1](src/Day11-Puzzle1.js "code") - [Part 2](src/Day11-Puzzle2.js "code")  
 Day 12 - Digital Plumber - [Part 1](src/Day12-Puzzle1.js "code") - [Part 2](src/Day12-Puzzle2.js "code")  
+Day 13 - Packet Scanners - [Part 1](src/Day13-Puzzle1.js "code") - [Part 2](src/Day13-Puzzle2.js "code")  
