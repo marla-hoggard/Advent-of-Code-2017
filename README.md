@@ -13,3 +13,4 @@ Day 8 - I Heard You Like Registers - [Part 1](src/Day8-Puzzle1.js "code") - [Par
 Day 9 - Stream Processing - [Part 1](src/Day9-Puzzle1.js "code") - [Part 2](src/Day9-Puzzle2.js "code")  
 Day 10 - Knot Hash - [Part 1](src/Day10-Puzzle1.js "code") - [Part 2](src/Day10-Puzzle2.js "code")  
 Day 11 - Hex Ed - [Part 1](src/Day11-Puzzle1.js "code") - [Part 2](src/Day11-Puzzle2.js "code")  
+Day 11 - Digital Plumber - [Part 1](src/Day12-Puzzle1.js "code") - [Part 2](src/Day12-Puzzle2.js "code")  
