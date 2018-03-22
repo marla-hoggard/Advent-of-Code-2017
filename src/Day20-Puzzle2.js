@@ -3,11 +3,11 @@
 //Repeatedly moves one step then removes any collisions
 //Returns length of remaining array
 function leftAfterCollision(partArray) {
-	var particles = partArray;	
-	
+	var particles = partArray;		
 	particles = removeCollision(particles);
 
 	//move then remove. Log number of remaining particles
+	//Picked an arbitrary bound to try - turns out collisions are all done in less than 40 iterations
 	for (var i = 0; i < 1000; i++) {
 		particles = particles.map(part => particleMove(part));
 		particles = removeCollision(particles);
