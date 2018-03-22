@@ -18,3 +18,4 @@ Day 13 - Packet Scanners - [Part 1](src/Day13-Puzzle1.js "code") - [Part 2](src/
 Day 14 - Disk Defragmentation - [Part 1](src/Day14-Puzzle1.js "code") - [Part 2](src/Day14-Puzzle2.js "code") - [Visual Representation](src/Day14-VisualRepresentation.png "image")  
 Day 15 - Dueling Generators - [Part 1](src/Day15-Puzzle1.js "code") - [Part 2](src/Day15-Puzzle2.js "code")  
 Day 16 - Permutation Promenade - [Part 1](src/Day16-Puzzle1.js "code") - [Part 2](src/Day16-Puzzle2.js "code")  
+Day 17 - Spinlock - [Part 1](src/Day17-Puzzle1.js "code") - [Part 2](src/Day17-Puzzle2.js "code")  
