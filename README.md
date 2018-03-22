@@ -20,3 +20,4 @@ Day 15 - Dueling Generators - [Part 1](src/Day15-Puzzle1.js "code") - [Part 2](s
 Day 16 - Permutation Promenade - [Part 1](src/Day16-Puzzle1.js "code") - [Part 2](src/Day16-Puzzle2.js "code")  
 Day 17 - Spinlock - [Part 1](src/Day17-Puzzle1.js "code") - [Part 2](src/Day17-Puzzle2.js "code")  
 Day 18 - Duet - [Part 1](src/Day18-Puzzle1.js "code") - [Part 2](src/Day18-Puzzle2.js "code")  
+Day 19 - A Series of Tubes - [Parts 1 & 2](src/Day19.js "code")
