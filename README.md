@@ -15,5 +15,5 @@ Day 10 - Knot Hash - [Part 1](src/Day10-Puzzle1.js "code") - [Part 2](src/Day10-
 Day 11 - Hex Ed - [Part 1](src/Day11-Puzzle1.js "code") - [Part 2](src/Day11-Puzzle2.js "code")  
 Day 12 - Digital Plumber - [Part 1](src/Day12-Puzzle1.js "code") - [Part 2](src/Day12-Puzzle2.js "code")  
 Day 13 - Packet Scanners - [Part 1](src/Day13-Puzzle1.js "code") - [Part 2](src/Day13-Puzzle2.js "code")  
-Day 14 - Disk Defragmentation - [Part 1](src/Day14-Puzzle1.js "code") - [Part 2](src/Day14-Puzzle2.js "code") - [Visual Representation](src/Day14-VisualRepresentation.png "image") 
+Day 14 - Disk Defragmentation - [Part 1](src/Day14-Puzzle1.js "code") - [Part 2](src/Day14-Puzzle2.js "code") - [Visual Representation](src/Day14-VisualRepresentation.png "image")  
 Day 15 - Dueling Generators - [Part 1](src/Day15-Puzzle1.js "code") - [Part 2](src/Day15-Puzzle2.js "code")  
