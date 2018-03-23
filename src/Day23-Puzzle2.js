@@ -1,5 +1,10 @@
 //Advent of Code - Day 23 - Part 2
-//In effect the question is from 107900 - 124900, by 17s, inclusive, how many numbers are not prime
+
+/* For this one, the full set of directions would take FOREVER.
+Upon tracing through the cycles, it turned out that the answer would be
+equal to the number of non-prime integers between 107,900 and 124,900, inclusive
+when counting by 17s.
+*/
 function coprocessorsOptimized() {
 	var processors = {a: 1, b: 107900, c: 124900, d: 2, e: 2, f: 1, g: 0, h: 0};
 	let [a,b,c,d,e,f,g,h] = [1,107900,124900,2,2,1,0,0];
