@@ -1,5 +1,5 @@
 //Advent of Code - Day 21
-//Returns the sum of the values after ${iterations} using ${rules}
+//Returns the sum of the values after ${iterations}
 //where . = 0, # = 1
 function fractalArt(iterations) {
 	let initial = [[0,1,0],[0,0,1],[1,1,1]];
