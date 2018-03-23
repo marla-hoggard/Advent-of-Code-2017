@@ -25,3 +25,4 @@ Day 20 - Particle Swarm - [Part 1](src/Day20-Puzzle1.js "code") - [Part 2](src/D
 Day 21 - Fractal Art - [Parts 1 & 2](src/Day21.js "code")  
 Day 22 - Sporifica Virus - [Part 1](src/Day22-Puzzle1.js "code") - [Part 2](src/Day22-Puzzle2.js "code")  
 Day 23 - Coprocessor Conflagration - [Part 1](src/Day23-Puzzle1.js "code") - [Part 2](src/Day23-Puzzle2.js "code")  
+Day 24 - Electromagnetic moat - [Part 1](src/Day24-Puzzle1.js "code") - [Part 2](src/Day24-Puzzle2.js "code")  
