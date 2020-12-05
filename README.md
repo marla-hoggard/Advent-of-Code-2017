@@ -27,3 +27,5 @@ Day 22 - Sporifica Virus - [Part 1](src/Day22-Puzzle1.js "code") - [Part 2](src/
 Day 23 - Coprocessor Conflagration - [Part 1](src/Day23-Puzzle1.js "code") - [Part 2](src/Day23-Puzzle2.js "code")  
 Day 24 - Electromagnetic moat - [Part 1](src/Day24-Puzzle1.js "code") - [Part 2](src/Day24-Puzzle2.js "code")  
 Day 25 - The Halting Problem - [Solution](src/Day25.js "code")  
+
+The code in this repository has been copied to a central [Advent of Code](https://github.com/marla-hoggard/advent-of-code/tree/master/2017) repository.
